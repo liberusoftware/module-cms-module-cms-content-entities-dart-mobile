@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-module-cms-content-entities-dart-mobile",
+  "capabilityKey": "planned:cms:module-cms-content-entities",
+  "presentation": "dart-mobile",
+  "package": "module_cms_module_cms_content_entities_dart_mobile",
+  "foundation": "module-boilerplate-dart-mobile",
+  "foundationCommit": "0656c212b36ef4f8ffd6fc74db4ac541268e7d31",
+  "canonicalPlan": "projects/cms/nextjs/module-cms-content-entities.md",
+  "presentationPlan": "projects/cms/features/module-cms-content-entities.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
